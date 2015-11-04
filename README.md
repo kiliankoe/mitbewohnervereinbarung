@@ -43,7 +43,7 @@ Das Wappen der Wohngemeinschaft ist [Wappen festlegen] welches auf der Flagge ab
 
 ### §9 Abstimmungen
 
-Im Falle von Gleichstand in einer beliebigen Abstimmung wird Schere-Stein-Papier nach Standardregeln genutzt um die Abstimmung zu lesen. Alternativ kann die Schultze-Methode als alternative Abstimmungsform angewandt werden.
+Im Falle von Gleichstand in einer beliebigen Abstimmung wird Schere-Stein-Papier nach Standardregeln genutzt um die Abstimmung zu lösen. Alternativ kann die Schultze-Methode als alternative Abstimmungsform angewandt werden.
 
 ### §x Salvatorische Klausel
 
