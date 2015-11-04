@@ -34,7 +34,7 @@ Im Falle des Auftretens einer übermächtigen künstlichen Intelligenz wird von 
 
 ### §7 Zombieapokalypse
 
-(1) Für den Fall einer spontanen (oder nicht spontanen) Zombieapokalypse ist verpflichten sich die Mitbewohner die Wohnung zu verlassen und sich wahlweise im Keller oder oberen Stockwerken des Hauses zu verschanzen und gegen Untote zu verteidigen.
+(1) Für den Fall einer spontanen (oder nicht spontanen) Zombieapokalypse verpflichten sich die Mitbewohner die Wohnung zu verlassen und sich wahlweise im Keller oder oberen Stockwerken des Hauses zu verschanzen und gegen Untote zu verteidigen.
 (2) Sollte einer der Mitbewohner selbst von dem Virus oder der etwaigen anderen Ursache der Zombieapokalypse befallen sein ist dieser von den anderen Mitbewohnern zu isolieren aber nicht umzubringen.
 
 ### §8 Flagge und Wappen
