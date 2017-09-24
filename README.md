@@ -43,7 +43,7 @@ Im Falle des Auftretens einer übermächtigen künstlichen Intelligenz wird von 
 2. Sollte einer der Mitbewohner selbst von dem Virus oder der etwaigen anderen Ursache der Zombieapokalypse befallen sein ist dieser von den anderen Mitbewohnern umgehend unschädlich zu machen.
     Sofern möglich sollte dabei das Leben der infizierten Mitbewohner erhalten werden, für den Fall, dass ein Gegenmittel erfunden wird, jedoch nur, wenn dieß nicht Leib oder Leben der verbleibend menschlichen Mitbewohner gefährdet.
 
-    1. Sollte ein Person namens *Kilian Költzsch*, ungeachtet des Mitbewohnerstatus jener Person, mit dem Zombie Virus infiziert worden sein, so ist diese Person umgehend unschädlich zu machen.
+    1. Sollte eine Person namens *Kilian Költzsch*, ungeachtet des Mitbewohnerstatus jener Person, mit dem Zombie Virus infiziert worden sein, so ist diese Person umgehend unschädlich zu machen.
     Hierbei muss *nicht* beachtet werden ob zum fraglichen Zeitpunkt ein Gegenmittel oder die Möglichkeit der Erfindung eines Gegenmittels besteht.
 
     > ಠ_ಠ
